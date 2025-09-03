@@ -1,6 +1,6 @@
 # 🌍 Impact of Air Pollution on Mental Health: A Data Analysis Case Study  
 
-![Visualization](visualizations/air_pollution_analysis.png) <!-- Replace with your actual image path -->
+![Visualization](visualizations/air_pollution_analysis.png)
 
 ---
 
@@ -34,7 +34,7 @@ The analysis was conducted in **two phases**:
 ---
 
 ## 📂 Project Structure  
-- **/data**: Initial dataset (exported from Google Sheets as `.csv`)  
+- **/data**: Initial dataset (Impact_Air-Pollution_on_Mental-Health_AnalysisV1)  
 - **analysis.R**: R script for cleaning and visualization  
 - **visualizations/**: PNG charts created in R  
 - **README.md**: Project documentation  
@@ -45,7 +45,7 @@ The analysis was conducted in **two phases**:
 ### **Phase 1 – Google Sheets**  
 - Performed **data cleaning**, removed inconsistencies, handled missing values  
 - Created **pivot tables and charts** for initial exploratory analysis  
-- [View Google Sheets Version Here](your_google_sheets_link)  
+- [Impact_Air-Pollution_on_Mental-Health_AnalysisV1](https://docs.google.com/spreadsheets/d/1l04DSKw9kZwAJBKQGaKQeLCNJmh-RMRSU56GCbGP2Kw/edit?gid=506892392#gid=506892392)  
 
 ### **Phase 2 – R Analysis**  
 - Used **dplyr** for data wrangling  
@@ -80,10 +80,4 @@ The analysis was conducted in **two phases**:
 ### ✅ Author  
 **Karen Flores** | [LinkedIn](www.linkedin.com/in/karenfloresj) | [GitHub](https://github.com/kjpflores-cell)  
 
-
-Bibliography & Project Links
-
-
-
-Proyecto de Google Sheets (primera versión): https://docs.google.com/spreadsheets/d/1l04DSKw9kZwAJBKQGaKQeLCNJmh-RMRSU56GCbGP2Kw/edit?gid=506892392#gid=506892392
 
