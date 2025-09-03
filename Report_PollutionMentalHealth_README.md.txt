@@ -78,7 +78,7 @@ The analysis was conducted in **two phases**:
 ---
 
 ### ✅ Author  
-**Karen Flores** | [LinkedIn](www.linkedin.com/in/karenfloresj) | [GitHub](your_github_profile)  
+**Karen Flores** | [LinkedIn](www.linkedin.com/in/karenfloresj) | [GitHub](https://github.com/kjpflores-cell)  
 
 
 Bibliography & Project Links
@@ -86,3 +86,4 @@ Bibliography & Project Links
 
 
 Proyecto de Google Sheets (primera versión): https://docs.google.com/spreadsheets/d/1l04DSKw9kZwAJBKQGaKQeLCNJmh-RMRSU56GCbGP2Kw/edit?gid=506892392#gid=506892392
+
