@@ -65,6 +65,11 @@ The analysis was conducted in **two phases**:
 
 ---
 
+## ✅ Conclusion
+Air pollution (NO₂) appears to have a measurable impact on sleep duration, which can influence mental well-being. Further studies with larger datasets are recommended.
+
+---
+
 ## 🚀 Next Steps  
 - Expand analysis using **SQL** for advanced queries  
 - Build a **Tableau dashboard** for interactive data storytelling  
@@ -78,7 +83,18 @@ The analysis was conducted in **two phases**:
 ---
 
 ### ✅ Author  
-**Karen Flores** | [LinkedIn](www.linkedin.com/in/karenfloresj) | [GitHub](https://github.com/kjpflores-cell)  
+**Karen Flores** | [LinkedIn](www.linkedin.com/in/karenfloresj) | [GitHub](https://github.com/kjpflores-cell) 
+
+---
+
+## ▶ How to Reproduce
+1. Clone this repo
+2. Open `analysis_air_pollution.R` in RStudio
+3. Load dataset from `/data/`
+4. Run the script to generate visualizations
+
+---
+
 
 
 
