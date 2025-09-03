@@ -1,6 +1,6 @@
 # 🌍 Impact of Air Pollution on Mental Health: A Data Analysis Case Study  
 
-![Visualization](visualizations/air_pollution_analysis.png)
+![Visualization](air_pollution_sleep_stress_correlation.png)
 
 ---
 
@@ -61,7 +61,7 @@ The analysis was conducted in **two phases**:
 ---
 
 ## 📈 Key Visualization  
-![Sample Chart](visualizations/air_pollution_analysis.png) <!-- Replace with your chart name -->
+![Sample Chart](air_pollution_sleep_stress_correlation.png)
 
 ---
 
@@ -79,5 +79,6 @@ The analysis was conducted in **two phases**:
 
 ### ✅ Author  
 **Karen Flores** | [LinkedIn](www.linkedin.com/in/karenfloresj) | [GitHub](https://github.com/kjpflores-cell)  
+
 
 
